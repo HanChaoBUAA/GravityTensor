@@ -1,2 +1,7 @@
-# GravityTensor
+GravityTensor
+===========================
 General Unified Normalization Computing for the Gravitational Potential Tensor of Arbitrary Orders
+****
+    A simple and consolidated structure, based on the general expression of Cunningham, is proposed to compute gravity potential and its derivatives up to any order. A novel normalization factor is introduced to synthesize various normalization forms into a unified one. Spherical harmonic series in a rectangular structure of all orders are constructed herein for the evaluation of arbitrary order derivatives, whose coefficients are irrelevant to the position information, possible for preprocessing and pre-storage as a high order tensor. The series remain to be the only terms needed for evaluation in the process by the chain role, greatly improving the computing efficiency and accuracy compared to the traditional ones. Simulations are conducted to analyze the practicality and validity of our structure. The accuracy and efficiency of various normalization algorithms are verified with comparison. Results indicate that the proposed expression has achieved its generality and unification. It is promising for potential use in fields with a similar expression of gravity potential.
+### Author:HanChao
+### E-mail:hanchao@buaa.edu.cn
